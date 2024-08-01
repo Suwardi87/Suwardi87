@@ -26,7 +26,7 @@
 <h3 align="left">Bahasa dan Alat:</h3>
 <p align="left"> 
    <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/imgres?q=laravel&imgurl=https%3A%2F%2Facademy.alterra.id%2Fblog%2Fwp-content%2Fuploads%2F2022%2F03%2FLaravel.png&imgrefurl=https%3A%2F%2Facademy.alterra.id%2Fblog%2Flaravel-adalah%2F&docid=dWUi85PcMUH0CM&tbnid=9-RH5zYCbdXq1M&vet=12ahUKEwiK27be1dOHAxXgTWwGHalsHwoQM3oECBUQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiK27be1dOHAxXgTWwGHalsHwoQM3oECBUQAA" alt="laravel" width="40" height="40"/> 
+    <img src="(https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
 </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
