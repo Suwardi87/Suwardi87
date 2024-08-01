@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=suwardi87&label=Profile%20views&color=0e75b6&style=flat" alt="suwardi87" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suwardi87" alt="suwardi87" />
-  </a> 
-</p>
-
 - 🔭 Saat ini saya sedang mengerjakan [SPK MAUT PUPUK TERBAIK](https://github.com/Suwardi87/SPK-MAUT-PUPUK-TERBAIK)
 - 🌱 Saat ini saya sedang belajar **Laravel, Flutter**
 - 👯 Saya sedang mengerjakan [Sistem Informasi Imunisasi](https://github.com/Suwardi87/SISTEM-INFORMASI-IMUNISASI)
