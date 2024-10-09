@@ -59,9 +59,6 @@
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-   <a href="https://vuetifyjs.com/id/" target="_blank" rel="noreferrer"> 
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
-  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suwardi87&show_icons=true&locale=id&layout=compact" alt="suwardi87" /></p>
