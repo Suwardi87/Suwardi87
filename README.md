@@ -26,8 +26,9 @@
 <h3 align="left">Bahasa dan Alat:</h3>
 <p align="left"> 
 <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg](https://www.google.com/imgres?q=laravel%20icon&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A866%2F1*CweHpGpUvTbdSCwZEm61cA.jpeg&imgrefurl=https%3A%2F%2Fblog.stackademic.com%2Fuseful-laravel-tips-tricks-snippets-0a36f76d3fc5&docid=Upflx90hrgDFcM&tbnid=koL12WrHFtYaSM&vet=12ahUKEwja_qLa-YGJAxUE2TgGHahKF9gQM3oECFUQAA..i&w=866&h=650&hcb=2&ved=2ahUKEwja_qLa-YGJAxUE2TgGHahKF9gQM3oECFUQAA)" alt="laravel" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
 </a>
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
