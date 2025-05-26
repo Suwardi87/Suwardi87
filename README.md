@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=suwardi87&label=Profile%20views&color=0e75b6&style=flat" alt="suwardi87" /> 
 </p>
 
-- 🔭 Saat ini saya sedang mengerjakan [SPK MAUT PUPUK TERBAIK](https://github.com/Suwardi87/SPK-MAUT-PUPUK-TERBAIK)
-- 🌱 Saat ini saya sedang belajar **Laravel, Flutter**
-- 👯 Saya sedang mengerjakan [Sistem Informasi Imunisasi](https://github.com/Suwardi87/SISTEM-INFORMASI-IMUNISASI)
-- 🤝 Saya mencari bantuan untuk [Reservasi Restoran](https://github.com/Suwardi87/reservasi_restoran)
 - 👨‍💻 Semua proyek saya tersedia di [GitHub](https://github.com/Suwardi87?tab=repositories)
 - 💬 Tanyakan kepada saya tentang **PHP, CSS, HTML, C, JavaScript Native, Bootstrap, Flowbite, Tailwind**
 - 📫 Cara menghubungi saya **suwardyser87@gmail.com**
