@@ -6,7 +6,7 @@
 </p>
 
 - 👨‍💻 Semua proyek saya tersedia di [GitHub](https://github.com/Suwardi87?tab=repositories)
-- 💬 Tanyakan kepada saya tentang **PHP, CSS, HTML, C, JavaScript Native, Bootstrap, Flowbite, Tailwind**
+- 💬 Tanyakan kepada saya tentang **Laravel, Boostrap, Tailwind, Flowbite, Jquery, Ajax**
 - 📫 Cara menghubungi saya **suwardyser87@gmail.com**
 
 <h3 align="left">Hubungi saya:</h3>
