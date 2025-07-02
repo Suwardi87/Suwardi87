@@ -1,62 +1,45 @@
-<h1 align="center">Hai 👋, saya Suwardi</h1>
-<h3 align="center">Pengembang full-stack web dan android</h3>
+# 👋 Hi, I'm Suwardi
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=suwardi87&label=Profile%20views&color=0e75b6&style=flat" alt="suwardi87" /> 
-</p>
+🚀 **Full-Stack Web Developer** from Padang, Indonesia  
+🎓 Informatics Engineering Graduate | Universitas Putra Indonesia YPTK Padang  
+📧 Email: suwardyser87@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/suwardi-40657a2a8)
 
-- 👨‍💻 Semua proyek saya tersedia di [GitHub](https://github.com/Suwardi87?tab=repositories)
-- 💬 Tanyakan kepada saya tentang **Laravel, Boostrap, Tailwind, Flowbite, Jquery, Ajax**
-- 📫 Cara menghubungi saya **suwardyser87@gmail.com**
+---
 
-<h3 align="left">Hubungi saya:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/suwardi-40657a2a8/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="- suwardi" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ad.i_i" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ad.i_i" height="30" width="40" />
-  </a>
-</p>
+## 🧠 Tech Stack
 
-<h3 align="left">Bahasa dan Alat:</h3>
-<p align="left"> 
-<a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
-</a>
+- **Backend**: PHP, Laravel, Lumen  
+- **Frontend**: Blade, Vue.js, Bootstrap, Tailwind CSS  
+- **Mobile**: Flutter  
+- **Database**: MySQL  
+- **Tools**: Postman, GitHub, Trello, Figma
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suwardi87&show_icons=true&locale=id&layout=compact" alt="suwardi87" /></p>
+## 💼 Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suwardi87&show_icons=true&locale=id" alt="suwardi87" /></p>
+### 🔹 [Laravel Blog AJAX](https://github.com/Suwardi87/laravel-blog-ajax)
+Blog platform with role-based access (Admin, Writer, Reader). Uses Laravel 11, Blade templating, category management, and AJAX CRUD.
+
+### 🔹 [Fertilizer Subsidy DSS (TOPSIS)](https://github.com/your-repo-link)
+Laravel-based decision support system using TOPSIS to determine subsidy recipients. Features: Matrix normalization, scoring, and dashboard.
+
+### 🔹 [Restaurant Ordering API](https://github.com/your-repo-link)
+REST API for restaurant management with roles: admin, cashier, waiter. Includes CMS, order system, and menu logic.
+
+### 🔹 [Tourism App (Flutter)](https://github.com/your-repo-link)
+Mobile app showcasing tourism destinations, structured UI using reusable Flutter components.
+
+---
+
+## 🏅 Certifications
+- Web Development with PHP Laravel – Kampus Merdeka (2024)
+- Flutter Workshop – Dunia Coding (2024)
+- Flutter Authentication – Inatechno (2023)
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/suwardi-40657a2a8)
+- [GitHub](https://github.com/Suwardi87)
