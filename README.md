@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Suwardi
 
 🚀 **Full-Stack Web Developer** from Padang, Indonesia  
-🎓 Informatics Engineering Graduate | Universitas Putra Indonesia YPTK Padang  
+🎓 Graduate of Informatics Engineering – Universitas Putra Indonesia YPTK Padang  
 📧 Email: suwardyser87@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/suwardi-40657a2a8)
+🔗 [Portfolio Website](https://my-portofolio-suwardi.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/suwardi-40657a2a8) | [GitHub](https://github.com/Suwardi87)
 
 ---
 
@@ -13,33 +13,36 @@
 - **Frontend**: Blade, Vue.js, Bootstrap, Tailwind CSS  
 - **Mobile**: Flutter  
 - **Database**: MySQL  
-- **Tools**: Postman, GitHub, Trello, Figma
+- **Tools**: Postman, Git, GitHub, Trello, Figma
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
 ### 🔹 [Laravel Blog AJAX](https://github.com/Suwardi87/laravel-blog-ajax)
-Blog platform with role-based access (Admin, Writer, Reader). Uses Laravel 11, Blade templating, category management, and AJAX CRUD.
+Personal blogging platform with role-based access (Admin, Writer, Reader). Built using Laravel 11, Blade templating, category management, and full AJAX CRUD functionality.
 
-### 🔹 [Fertilizer Subsidy DSS (TOPSIS)](https://github.com/your-repo-link)
-Laravel-based decision support system using TOPSIS to determine subsidy recipients. Features: Matrix normalization, scoring, and dashboard.
+### 🔹 [Fertilizer Subsidy DSS (TOPSIS)](https://github.com/Suwardi87/website-subsidi-pupuk-TOPSIS)
+A decision support system implementing the TOPSIS algorithm to determine eligible recipients of fertilizer subsidies. Features: matrix normalization, scoring, ranking, and admin dashboard.
 
-### 🔹 [Restaurant Ordering API](https://github.com/your-repo-link)
-REST API for restaurant management with roles: admin, cashier, waiter. Includes CMS, order system, and menu logic.
+### 🔹 [Restaurant Ordering API](https://github.com/Suwardi87/resto-ordering-api)
+RESTful API for managing restaurant operations with roles: Admin, Cashier, Waiter. Includes CMS, order tracking, and menu management.
 
-### 🔹 [Tourism App (Flutter)](https://github.com/your-repo-link)
-Mobile app showcasing tourism destinations, structured UI using reusable Flutter components.
+### 🔹 [Tourism Mobile App (Flutter)](https://github.com/Suwardi87/aplikasi-pariwisata-flutter)
+A mobile app for showcasing tourism destinations in West Sumatra. Built with Flutter, featuring clean UI, card-based layout, and local JSON data parsing.
 
 ---
 
 ## 🏅 Certifications
-- Web Development with PHP Laravel – Kampus Merdeka (2024)
-- Flutter Workshop – Dunia Coding (2024)
+
+- Web Development with PHP Laravel – Kampus Merdeka (2024)  
+- Flutter Workshop – Dunia Coding (2024)  
 - Flutter Authentication – Inatechno (2023)
 
 ---
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/suwardi-40657a2a8)
-- [GitHub](https://github.com/Suwardi87)
+## 📫 Let’s Connect
+
+- 🔗 [Portfolio Website](https://my-portofolio-suwardi.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/suwardi-40657a2a8)  
+- 🐙 [GitHub](https://github.com/Suwardi87)  
